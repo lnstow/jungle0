@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Jungle0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="page">翻页</string>
+    <string name="favorite">收藏</string>
+    <string name="view_size">视图</string>
+    <string name="search_action">搜索</string>
+    <string name="actress_num">人数</string>
+    <string name="search_hint">只支持搜索番号</string>
+
+    <string-array name="title_main">
+        <item>主页</item>
+        <item>收藏夹</item>
+        <item>随机</item>
+        <item>最近观看</item>
+        <item>设置</item>
+        <item>退出</item>
+    </string-array>
+
+    <string-array name="people_num_show">
+        <item>所有</item>
+        <item>一人</item>
+        <item>二人</item>
+        <item>三人</item>
+        <item>超过四人</item>
+        <item>业余</item>
+    </string-array>
+
+    <string name="nav_home">主页</string>
+    <string name="nav_favorite">收藏夹</string>
+    <string name="nav_moe">随机</string>
+    <string name="nav_history">最近观看</string>
+    <string name="nav_setting">设置</string>
+    <string name="nav_exit">退出</string>
+
+</resources>
